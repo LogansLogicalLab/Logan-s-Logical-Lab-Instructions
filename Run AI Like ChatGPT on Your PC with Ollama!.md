@@ -123,7 +123,7 @@ Welcome to Logan's Logical Lab! Follow these steps to download, install, and run
 ## Step 8: Optional Enhancements
 
 1. **Integrate Open Web UI:**  
-   - For additional functionality (e.g., real-time data access, enhanced chat features), consider using [Open Web UI](https://github.com/openwebui) *(replace with the correct URL)*.
+   - For additional functionality (e.g., real-time data access, enhanced chat features), consider using [Open Web UI]([https://github.com/openwebui](https://github.com/open-webui/open-webui)).
    - **Requirements:** Docker must be installed to run Open Web UI.
 
 2. **Follow Additional Guides:**  
