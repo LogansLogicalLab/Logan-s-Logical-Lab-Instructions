@@ -20,7 +20,7 @@ Welcome to Logan's Logical Lab! Follow these steps to download, install, and run
 ## Step 2: Download Ollama
 
 1. **Visit the Website:**  
-   - Open your web browser and navigate to [Ollama's Website](https://www.ollama.com) *(Replace with the actual URL if needed).*
+   - Open your web browser and navigate to [Ollama's Website](https://www.ollama.com) 
 
 2. **Select Your Platform:**  
    - Find the download section and choose the installer for your operating system:
