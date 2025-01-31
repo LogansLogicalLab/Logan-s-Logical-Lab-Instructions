@@ -73,7 +73,8 @@ Welcome to Logan's Logical Lab! Follow these steps to download, install, and run
 1. **Select Your Model:**  
    - On the Ollama website, navigate to the **Models** section.  
    - Choose a model based on your hardware capabilities. For example:
-     - **Deep Seek R1 (7B parameters)** – Suitable for lower-spec systems like Raspberry Pi (with 8GB RAM or more).
+     - **Deep Seek R1 (7B parameters)** – A good AI for decent to good hardware.
+     - **llama 3.2 (3B parameters)** - Good for lower end software like a Raspberry Pi.
 
 2. **Copy the Installation Command:**  
    - Click on your chosen model and copy the provided command from the web portal.
