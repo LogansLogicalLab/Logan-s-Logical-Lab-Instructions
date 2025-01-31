@@ -91,14 +91,14 @@ Welcome to Logan's Logical Lab! Follow these steps to download, install, and run
 1. **Send a Test Query:**  
    - Once the model is running, try typing a simple query:
      ```bash
-     ollama "What is AI?"
+     "What is AI?"
      ```
    - Watch for the loading animation and response.
 
 2. **Access Help for Commands:**  
    - To see a list of available commands while interacting with the AI, type:
      ```bash
-     ollama help
+     /?
      ```
    - This will provide guidance on how to operate your AI.
 
