@@ -4,6 +4,8 @@ Welcome to Logan's Logical Lab! Follow these steps to download, install, and run
 
 ---
 
+**Associated Video:** [Run AI Like ChatGPT on Your PC with Ollama!](https://youtu.be/mZJt-5zyYXk)
+
 ## Step 1: Overview
 
 - **Purpose:** Run a local AI model instead of relying on remote data centers.
