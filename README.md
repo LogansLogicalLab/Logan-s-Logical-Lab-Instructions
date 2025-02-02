@@ -14,7 +14,7 @@ This repo contains step-by-step guides, useful commands, and documentation for v
 
 📺 Watch the Videos!
 Each guide corresponds to a video on my YouTube channel:
-🔗 [Logan's Logical Lab]: https://www.youtube.com/channel/UCeBmXLdIcY9VaLQv_sZo0gQ
+🔗 [Logan's Logical Lab]: https://www.youtube.com/channel/UCeBmXLdIcY9VaLQv_sZo0gQ?sub_confirmation=1
 
 🤝 Stay Connected
 ⭐ Star this repo to stay updated!
