@@ -27,7 +27,5 @@ C# is part of the **C family** (C, C++, C#) and is widely used in software devel
 - I built **a number guessing game** after the challenge.  
 - Another **"I Survived" video** is coming soon—**the programming language has a "V" in its name**! Any guesses? 👀  
 
-👉 **Check out the GitHub repo** with my C# projects: [🔗 Link in Description]  
 
-If you enjoyed the video, **like, subscribe, and stay tuned for more coding challenges!** 🎉  
 
